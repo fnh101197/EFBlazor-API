@@ -1,0 +1,11 @@
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\bin\Debug\netstandard2.0\Inventory.Library.deps.json
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\bin\Debug\netstandard2.0\Inventory.Library.dll
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\obj\Debug\netstandard2.0\Inventory.Library.csprojAssemblyReference.cache
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\obj\Debug\netstandard2.0\Inventory.Library.AssemblyInfoInputs.cache
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\obj\Debug\netstandard2.0\Inventory.Library.AssemblyInfo.cs
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\bin\Debug\netstandard2.0\Inventory.Library.pdb
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\bin\Debug\netstandard2.0\Inventory.Model.dll
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\bin\Debug\netstandard2.0\Inventory.Model.pdb
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\obj\Debug\netstandard2.0\Inventory.Library.csproj.CopyComplete
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\obj\Debug\netstandard2.0\Inventory.Library.dll
+D:\COMPANY\PROGRAMMING\VISUALSTUDIO\PROJECT\Subur.Inventory\SuburInventory\Inventory.Library\obj\Debug\netstandard2.0\Inventory.Library.pdb
